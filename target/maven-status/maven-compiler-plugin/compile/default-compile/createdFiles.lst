@@ -1,0 +1,3 @@
+com\test\web\LogTestFile.class
+com\test\web\Log4JTestServlet.class
+com\test\web\Log4JInitServlet.class
