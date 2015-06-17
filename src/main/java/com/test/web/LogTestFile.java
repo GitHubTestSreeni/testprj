@@ -38,6 +38,7 @@ public class LogTestFile extends javax.servlet.http.HttpServlet implements javax
 		log1.warn("warn message");
 		log1.error("error message");
 		log1.fatal("fatal message");
+		System.out.println("Test for master branch");
 	}
 
 }
