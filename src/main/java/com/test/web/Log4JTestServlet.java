@@ -27,6 +27,7 @@ public class Log4JTestServlet extends javax.servlet.http.HttpServlet implements 
 		log.warn("warn message");
 		log.error("error message");
 		log.fatal("fatal message");
+		System.out.println("theatre commit");
 	}
 
 }
